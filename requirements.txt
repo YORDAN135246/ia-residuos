@@ -4,4 +4,4 @@ numpy
 plotly
 st-gsheets-connection
 scikit-learn
-tensorflow-cpu
+tensorflow
