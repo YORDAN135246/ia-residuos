@@ -1,7 +1,7 @@
 streamlit
-pandas
+tensorflow
+opencv-python-headless
 numpy
-plotly
-streamlit-gsheets
-scikit-learn
-tensorflow-cpu
+pandas
+matplotlib
+seaborn
