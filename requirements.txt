@@ -4,4 +4,4 @@ numpy
 plotly
 streamlit-gsheets
 scikit-learn
-tensorflow
+tensorflow-cpu
